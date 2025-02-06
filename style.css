@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 50px;
+  background-color: bisque;
+}
+
+h1 {
+  font-family: "lafleur-wide", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 8rem;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* kommentar för test */
+
+.main-menu {
+  display: flex;
+  justify-content: flex-end;
+  list-style: none;
+  font-family: "lafleur-wide", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 3rem;
+}
+
+.menu-option {
+  margin-right: 2rem;
+}
